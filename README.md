@@ -12,3 +12,5 @@ This is example for Golang project
 - Golang
 - gRPC
 - Mongodb
+- Docker
+- Makefile
